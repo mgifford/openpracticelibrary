@@ -30,7 +30,7 @@
     "gatsby-plugin-sharp": "^5.12.3",
     "gatsby-remark-copy-linked-files": "^6.6.0",
     "gatsby-remark-images": "^7.6.0",
-    "gatsby-remark-relative-images": "^0.3.0",
+    "gatsby-remark-relative-images": "^2.0.5",
     "gatsby-source-filesystem": "^5.6.0",
     "gatsby-theme-material-ui": "^5.3.0",
     "gatsby-transformer-json": "^5.6.0",
@@ -77,7 +77,7 @@
   "devDependencies": {
     "babel-jest": "^29.7.0",
     "babel-preset-gatsby": "^2.25.0",
-    "cypress": "^4.12.1",
+    "cypress": "^15.2.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^29.7.0",
     "prettier": "^2.1.2",
